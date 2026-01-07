@@ -10,4 +10,7 @@ No Apache or Nginx required
 
 ## Install
 Open terminal and run:
-`curl -fsSL https://raw.githubusercontent.com/matskugaming/mankelifile/refs/heads/master/mankelifile-setup.sh | bash`
+```bash
+curl -fsSL https://raw.githubusercontent.com/matskugaming/mankelifile/refs/heads/master/mankelifile-setup.sh > mankelifile-setup.sh
+bash mankelifile-setup.sh
+```
