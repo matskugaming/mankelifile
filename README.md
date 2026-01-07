@@ -7,3 +7,7 @@ Simple PHP File Server
   * Recommended: PHP 7.4+ or PHP 8.1+
 
 No Apache or Nginx required
+
+## Install
+Open terminal and run:
+`curl -fsSL https://raw.githubusercontent.com/matskugaming/mankelifile/refs/heads/master/mankelifile-setup.sh | bash`
